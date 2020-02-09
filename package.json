@@ -1,0 +1,17 @@
+{
+  "name": "workflow2-ma2-nuxt",
+  "version": "1.0.0",
+  "description": "Nuxt.js app deployed to Netlify.",
+  "author": "Raymond Johannessen",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
